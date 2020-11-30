@@ -1,0 +1,1 @@
+Job tracker is a job data entry and retrieval tool. Its purpose is to organize and declutter general job information, initial application date, interview date(s), status, and end state of the application.
